@@ -1,4 +1,4 @@
-# a-viagem-de-chihiro
+# Studio Ghibli
 
 ## Project setup
 ```
