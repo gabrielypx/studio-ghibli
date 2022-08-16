@@ -38,16 +38,18 @@
 
         <!--buttons-->
         <div class="buttons">
-          <form action="https://www.netflix.com/title/60023642">
+          <form action="https://www.netflix.com/watch/60023642?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C60023642" target="_blank">
             <button type="submit" class="watch-movie">
               <img src="./assets/imgs/play.svg" />
               <p>WATCH NOW</p>
             </button>
           </form>
 
-          <button type="submit" class="watch-trailer">
-            <p>WATCH THE TRAILER</p>
-          </button>
+          <form action="https://www.netflix.com/title/60023642" target="_blank">
+            <button type="submit" class="watch-trailer">
+              <p>WATCH THE TRAILER</p>
+            </button>
+          </form>
         </div>
       </div>
 
