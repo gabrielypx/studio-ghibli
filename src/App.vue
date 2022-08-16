@@ -7,16 +7,16 @@
       <!--icons-->
       <ul class="icons">
         <li>
-          <a href="#"><img src="./assets/imgs/facebook.svg" /></a>
+          <a href="https://www.facebook.com/FansOfStudioGhibli/" target="_blank"><img src="./assets/imgs/facebook.svg" /></a>
         </li>
         <li>
-          <a href="#"><img src="./assets/imgs/instagram.svg" /></a>
+          <a href="https://www.instagram.com/ghibli.movies/" target="_blank"><img src="./assets/imgs/instagram.svg"/></a>
         </li>
         <li>
-          <a href="#"><img src="./assets/imgs/twitter.svg" /></a>
+          <a href="https://twitter.com/ghibliusa" target="_blank"><img src="./assets/imgs/twitter.svg" /></a>
         </li>
         <li>
-          <a href="https://www.youtube.com/watch?v=XKd-qdNNko4"><img src="./assets/imgs/youtube.svg" /></a>
+          <a href="https://www.youtube.com/watch?v=XKd-qdNNko4" target="_blank"><img src="./assets/imgs/youtube.svg" /></a>
         </li>
       </ul>
     </header>
